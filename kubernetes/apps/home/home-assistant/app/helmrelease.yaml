@@ -94,7 +94,7 @@ spec:
         enabled: true
         image:
           repository: codercom/code-server
-          tag: 4.9.1
+          tag: 4.10.1
         env:
           # GIT_EMAIL: ${SECRET_EMAIL}
           # GIT_AUTHOR_NAME: ${SECRET_NAME}
